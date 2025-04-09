@@ -1,2 +1,2 @@
 # firstday-2nd.demo
-author - ganesh 
+author - ganesh (thapa)
